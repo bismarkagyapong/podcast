@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bismark Agyapong Podcast</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body class="light-mode">
+    <header>
+        <div class="container">
+            <h1>Bismark Agyapong Podcast</h1>
+            <p id="podcast-description"></p>
+        </div>
+        <button id="theme-toggle" class="toggle-button">
+            <span class="circle"></span>
+        </button>
+    </header>
+
+    <main>
+        <section id="episodes">
+            <h2>Latest Episodes</h2>
+            <div id="episode-list" class="episode-list">
+                <!-- Episodes will load dynamically here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Bismark Agyapong Podcast. All rights reserved.</p>
+        <p>Copyright <b>Markmix Studios Limited</b></p>
+    </footer>
+
+    <div id="audio-player" class="sticky-player">
+        <div id="player-info">
+            <h3 id="player-title">Select an episode to play</h3>
+        </div>
+        <audio id="player-audio" controls>
+            <source src="" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+</body>
+</html>

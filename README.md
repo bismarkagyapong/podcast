@@ -18,15 +18,5 @@ Whether you're seeking spiritual enlightenment, encouragement, or a deeper under
 
 ## 🎧 Listen to the Podcast
 
-### Embed Player  
-You can listen to the podcast directly here:
+### <a href= "https://pod.link/1713083519">Click Here</a>
 
-```html
-<iframe 
-    src="https://open.spotify.com/embed/show/7bpl29g0X9pN1EXlHYC4QT?utm_source=generator&theme=0" 
-    width="100%" 
-    height="152" 
-    frameborder="0" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    allowfullscreen>
-</iframe>

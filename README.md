@@ -1,12 +1,12 @@
-# 🎙️ Bismark Agyapong Podcast
+# 🎙️ GraceSignal Podcast
 
-Welcome to the **Bismark Agyapong Podcast**! This podcast is dedicated to sharing **philosophical insights**, **wisdom quotes**, and uplifting **Christian content** to inspire and guide listeners toward personal and spiritual growth.
+Welcome to the **GraceSignal Podcast**! This podcast is dedicated to sharing **philosophical insights**, **wisdom quotes**, and uplifting **Christian content** to inspire and guide listeners toward personal and spiritual growth.
 
 ---
 
 ## 📖 About the Podcast
 
-The Bismark Agyapong Podcast delivers weekly episodes that explore topics such as:  
+The GraceSignal Podcast delivers weekly episodes that explore topics such as:  
 - Life-changing wisdom  
 - Christian teachings and biblical insights  
 - Philosophical reflections  

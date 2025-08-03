@@ -1,4 +1,4 @@
-const RSS_FEED_URL = "https://anchor.fm/s/db498af0/podcast/rss";
+const RSS_FEED_URL = "https://feeds.buzzsprout.com/2295296.rss";
 
 // Select DOM elements
 const descriptionEl = document.getElementById("podcast-description");
